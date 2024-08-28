@@ -5,3 +5,4 @@
 - [2024-08-25T09:41:13] chore: synchronize project dependencies
 - [2024-08-28T22:02:53] test: add unit coverage for core handlers
 - [2024-08-28T16:42:49] docs: document system architecture
+- [2024-08-28T20:49:42] test: add unit coverage for core handlers
