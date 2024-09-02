@@ -9,3 +9,4 @@
 - [2024-08-28T20:12:45] perf: improve memory allocation profile
 - [2024-08-30T09:38:30] chore: synchronize project dependencies
 - [2024-09-01T19:13:39] refactor: optimize parsing routines
+- [2024-09-02T10:24:11] perf: improve memory allocation profile
