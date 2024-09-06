@@ -13,3 +13,4 @@
 - [2024-09-02T17:11:19] docs: document system architecture
 - [2024-09-02T21:36:49] chore: synchronize project dependencies
 - [2024-09-06T12:00:19] perf: improve memory allocation profile
+- [2024-09-06T22:48:47] test: add unit coverage for core handlers
