@@ -16,3 +16,4 @@
 - [2024-09-06T22:48:47] test: add unit coverage for core handlers
 - [2024-09-07T14:57:35] refactor: optimize parsing routines
 - [2024-09-07T21:15:20] test: add unit coverage for core handlers
+- [2024-09-07T12:11:41] fix: handle boundary condition in buffer
