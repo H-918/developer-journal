@@ -18,3 +18,4 @@
 - [2024-09-07T21:15:20] test: add unit coverage for core handlers
 - [2024-09-07T12:11:41] fix: handle boundary condition in buffer
 - [2024-09-15T11:42:01] chore: synchronize project dependencies
+- [2024-09-15T16:41:57] fix: handle boundary condition in buffer
