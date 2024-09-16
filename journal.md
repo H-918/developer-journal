@@ -22,3 +22,4 @@
 - [2024-09-15T14:25:57] chore: synchronize project dependencies
 - [2024-09-15T17:15:19] feat: add data structure implementation
 - [2024-09-16T19:48:44] refactor: optimize parsing routines
+- [2024-09-16T15:06:21] fix: handle boundary condition in buffer
