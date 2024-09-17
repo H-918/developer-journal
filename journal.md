@@ -24,3 +24,4 @@
 - [2024-09-16T19:48:44] refactor: optimize parsing routines
 - [2024-09-16T15:06:21] fix: handle boundary condition in buffer
 - [2024-09-17T18:45:14] test: add unit coverage for core handlers
+- [2024-09-17T18:24:51] feat: add data structure implementation
