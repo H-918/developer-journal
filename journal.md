@@ -26,3 +26,4 @@
 - [2024-09-17T18:45:14] test: add unit coverage for core handlers
 - [2024-09-17T18:24:51] feat: add data structure implementation
 - [2024-09-17T20:54:14] style: format code according to standards
+- [2024-09-18T11:52:41] chore: synchronize project dependencies
