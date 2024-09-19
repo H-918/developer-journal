@@ -27,3 +27,4 @@
 - [2024-09-17T18:24:51] feat: add data structure implementation
 - [2024-09-17T20:54:14] style: format code according to standards
 - [2024-09-18T11:52:41] chore: synchronize project dependencies
+- [2024-09-19T14:06:37] feat: add data structure implementation
