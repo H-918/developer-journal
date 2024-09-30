@@ -33,3 +33,4 @@
 - [2024-09-26T22:44:16] docs: document system architecture
 - [2024-09-27T17:05:11] docs: clarify API specification
 - [2024-09-27T21:26:49] chore: synchronize project dependencies
+- [2024-09-30T15:00:44] fix: handle boundary condition in buffer
