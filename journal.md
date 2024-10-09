@@ -44,3 +44,4 @@
 - [2024-10-07T12:46:18] style: format code according to standards
 - [2024-10-08T09:37:49] chore: update configuration parameters
 - [2024-10-09T16:11:10] docs: document system architecture
+- [2024-10-09T20:22:59] test: add unit coverage for core handlers
