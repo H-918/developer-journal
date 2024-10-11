@@ -47,3 +47,4 @@
 - [2024-10-09T20:22:59] test: add unit coverage for core handlers
 - [2024-10-10T19:09:20] refactor: optimize parsing routines
 - [2024-10-10T18:20:14] fix: handle boundary condition in buffer
+- [2024-10-11T13:48:15] style: format code according to standards
