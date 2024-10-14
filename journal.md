@@ -49,3 +49,4 @@
 - [2024-10-10T18:20:14] fix: handle boundary condition in buffer
 - [2024-10-11T13:48:15] style: format code according to standards
 - [2024-10-11T15:29:04] style: format code according to standards
+- [2024-10-14T18:15:14] style: format code according to standards
