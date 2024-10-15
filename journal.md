@@ -51,3 +51,4 @@
 - [2024-10-11T15:29:04] style: format code according to standards
 - [2024-10-14T18:15:14] style: format code according to standards
 - [2024-10-14T10:07:38] feat: add data structure implementation
+- [2024-10-15T15:22:53] refactor: optimize parsing routines
