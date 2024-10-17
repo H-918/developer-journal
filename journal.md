@@ -57,3 +57,4 @@
 - [2024-10-16T10:04:52] chore: update configuration parameters
 - [2024-10-16T13:40:17] docs: document system architecture
 - [2024-10-17T21:27:29] perf: improve memory allocation profile
+- [2024-10-17T19:36:08] test: add unit coverage for core handlers
