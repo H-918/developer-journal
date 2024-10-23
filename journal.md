@@ -67,3 +67,4 @@
 - [2024-10-22T17:25:54] docs: document system architecture
 - [2024-10-22T13:39:46] feat: add data structure implementation
 - [2024-10-23T13:04:43] chore: update configuration parameters
+- [2024-10-23T18:39:00] fix: handle boundary condition in buffer
