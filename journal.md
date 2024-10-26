@@ -69,3 +69,4 @@
 - [2024-10-23T13:04:43] chore: update configuration parameters
 - [2024-10-23T18:39:00] fix: handle boundary condition in buffer
 - [2024-10-26T15:20:44] refactor: optimize parsing routines
+- [2024-10-26T19:13:34] style: format code according to standards
