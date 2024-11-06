@@ -77,3 +77,4 @@
 - [2024-11-04T12:28:56] fix: handle boundary condition in buffer
 - [2024-11-05T16:03:22] perf: improve memory allocation profile
 - [2024-11-05T13:34:00] chore: synchronize project dependencies
+- [2024-11-06T21:18:19] style: format code according to standards
