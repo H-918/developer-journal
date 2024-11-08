@@ -81,3 +81,4 @@
 - [2024-11-07T17:58:01] perf: improve memory allocation profile
 - [2024-11-07T20:07:48] chore: update configuration parameters
 - [2024-11-08T14:47:44] chore: update configuration parameters
+- [2024-11-08T14:39:07] style: format code according to standards
