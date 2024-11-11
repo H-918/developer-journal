@@ -84,3 +84,4 @@
 - [2024-11-08T14:39:07] style: format code according to standards
 - [2024-11-08T19:47:30] fix: handle boundary condition in buffer
 - [2024-11-11T19:48:32] fix: handle boundary condition in buffer
+- [2024-11-11T20:35:43] perf: improve memory allocation profile
