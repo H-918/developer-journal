@@ -85,3 +85,4 @@
 - [2024-11-08T19:47:30] fix: handle boundary condition in buffer
 - [2024-11-11T19:48:32] fix: handle boundary condition in buffer
 - [2024-11-11T20:35:43] perf: improve memory allocation profile
+- [2024-11-12T18:16:03] fix: handle boundary condition in buffer
