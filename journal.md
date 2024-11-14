@@ -87,3 +87,4 @@
 - [2024-11-11T20:35:43] perf: improve memory allocation profile
 - [2024-11-12T18:16:03] fix: handle boundary condition in buffer
 - [2024-11-12T18:20:20] docs: clarify API specification
+- [2024-11-14T17:04:30] feat: add data structure implementation
