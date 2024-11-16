@@ -91,3 +91,4 @@
 - [2024-11-15T17:37:06] docs: document system architecture
 - [2024-11-15T20:39:05] chore: synchronize project dependencies
 - [2024-11-16T18:37:15] style: format code according to standards
+- [2024-11-16T17:52:03] chore: update configuration parameters
