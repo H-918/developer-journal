@@ -90,3 +90,4 @@
 - [2024-11-14T17:04:30] feat: add data structure implementation
 - [2024-11-15T17:37:06] docs: document system architecture
 - [2024-11-15T20:39:05] chore: synchronize project dependencies
+- [2024-11-16T18:37:15] style: format code according to standards
