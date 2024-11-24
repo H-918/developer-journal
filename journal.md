@@ -93,3 +93,4 @@
 - [2024-11-16T18:37:15] style: format code according to standards
 - [2024-11-16T17:52:03] chore: update configuration parameters
 - [2024-11-24T20:29:53] feat: add data structure implementation
+- [2024-11-24T21:23:25] feat: add data structure implementation
