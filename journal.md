@@ -101,3 +101,4 @@
 - [2024-11-26T11:36:33] chore: update configuration parameters
 - [2024-11-27T20:49:19] refactor: optimize parsing routines
 - [2024-11-28T12:39:29] docs: clarify API specification
+- [2024-11-28T17:09:50] perf: improve memory allocation profile
