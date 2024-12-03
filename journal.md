@@ -108,3 +108,4 @@
 - [2024-11-30T18:05:29] test: add unit coverage for core handlers
 - [2024-12-03T15:47:16] docs: clarify API specification
 - [2024-12-03T14:14:35] docs: clarify API specification
+- [2024-12-03T17:08:10] docs: document system architecture
