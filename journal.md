@@ -113,3 +113,4 @@
 - [2024-12-04T14:50:14] perf: improve memory allocation profile
 - [2024-12-05T17:55:35] chore: synchronize project dependencies
 - [2024-12-05T09:47:36] fix: handle boundary condition in buffer
+- [2024-12-05T15:47:39] style: format code according to standards
