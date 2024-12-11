@@ -120,3 +120,4 @@
 - [2024-12-09T12:35:15] feat: add data structure implementation
 - [2024-12-10T15:07:31] docs: document system architecture
 - [2024-12-11T13:48:02] chore: update configuration parameters
+- [2024-12-11T14:37:56] test: add unit coverage for core handlers
