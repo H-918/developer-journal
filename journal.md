@@ -123,3 +123,4 @@
 - [2024-12-11T14:37:56] test: add unit coverage for core handlers
 - [2024-12-12T18:23:37] docs: clarify API specification
 - [2024-12-12T18:23:59] feat: add data structure implementation
+- [2024-12-13T12:36:14] feat: add data structure implementation
