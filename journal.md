@@ -130,3 +130,4 @@
 - [2024-12-17T22:53:57] feat: add data structure implementation
 - [2024-12-18T22:43:51] chore: synchronize project dependencies
 - [2024-12-18T13:30:30] feat: add data structure implementation
+- [2024-12-19T10:12:35] fix: handle boundary condition in buffer
