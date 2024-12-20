@@ -132,3 +132,4 @@
 - [2024-12-18T13:30:30] feat: add data structure implementation
 - [2024-12-19T10:12:35] fix: handle boundary condition in buffer
 - [2024-12-20T15:14:01] test: add unit coverage for core handlers
+- [2024-12-20T17:42:25] fix: handle boundary condition in buffer
