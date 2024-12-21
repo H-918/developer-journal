@@ -135,3 +135,4 @@
 - [2024-12-20T17:42:25] fix: handle boundary condition in buffer
 - [2024-12-21T09:28:17] perf: improve memory allocation profile
 - [2024-12-21T15:58:13] perf: improve memory allocation profile
+- [2024-12-21T17:54:36] style: format code according to standards
