@@ -147,3 +147,4 @@
 - [2024-12-25T15:01:31] perf: improve memory allocation profile
 - [2024-12-25T11:55:00] feat: add data structure implementation
 - [2024-12-26T21:33:16] style: format code according to standards
+- [2024-12-27T21:10:22] test: add unit coverage for core handlers
