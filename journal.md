@@ -150,3 +150,4 @@
 - [2024-12-27T21:10:22] test: add unit coverage for core handlers
 - [2024-12-27T12:10:33] fix: handle boundary condition in buffer
 - [2024-12-28T16:20:59] docs: clarify API specification
+- [2024-12-28T10:00:39] refactor: optimize parsing routines
