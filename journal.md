@@ -155,3 +155,4 @@
 - [2024-12-28T09:39:20] chore: synchronize project dependencies
 - [2024-12-29T16:49:40] refactor: optimize parsing routines
 - [2024-12-29T17:36:09] chore: synchronize project dependencies
+- [2024-12-30T09:24:22] docs: clarify API specification
