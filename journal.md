@@ -160,3 +160,4 @@
 - [2024-12-31T18:59:28] refactor: optimize parsing routines
 - [2024-12-31T15:26:49] refactor: optimize parsing routines
 - [2024-12-31T20:44:30] refactor: optimize parsing routines
+- [2025-01-02T22:23:55] test: add unit coverage for core handlers
