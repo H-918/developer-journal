@@ -167,3 +167,4 @@
 - [2025-01-03T10:50:35] feat: add data structure implementation
 - [2025-01-03T21:41:41] fix: handle boundary condition in buffer
 - [2025-01-07T13:43:14] chore: update configuration parameters
+- [2025-01-07T14:27:55] docs: document system architecture
