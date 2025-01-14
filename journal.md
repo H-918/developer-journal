@@ -171,3 +171,4 @@
 - [2025-01-08T11:18:20] test: add unit coverage for core handlers
 - [2025-01-13T18:59:36] perf: improve memory allocation profile
 - [2025-01-14T14:25:06] test: add unit coverage for core handlers
+- [2025-01-14T22:39:30] refactor: optimize parsing routines
