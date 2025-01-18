@@ -177,3 +177,4 @@
 - [2025-01-15T15:21:54] perf: improve memory allocation profile
 - [2025-01-17T11:31:15] test: add unit coverage for core handlers
 - [2025-01-18T16:42:16] chore: synchronize project dependencies
+- [2025-01-18T10:20:54] refactor: optimize parsing routines
