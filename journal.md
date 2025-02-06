@@ -193,3 +193,4 @@
 - [2025-02-05T17:15:21] chore: synchronize project dependencies
 - [2025-02-06T12:15:45] chore: update configuration parameters
 - [2025-02-06T11:58:59] refactor: optimize parsing routines
+- [2025-02-06T16:58:23] style: format code according to standards
