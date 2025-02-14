@@ -204,3 +204,4 @@
 - [2025-02-13T13:40:47] chore: update configuration parameters
 - [2025-02-13T13:24:57] feat: add data structure implementation
 - [2025-02-13T19:15:07] style: format code according to standards
+- [2025-02-14T13:32:12] fix: handle boundary condition in buffer
