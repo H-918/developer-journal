@@ -209,3 +209,4 @@
 - [2025-02-15T11:07:47] docs: clarify API specification
 - [2025-02-15T20:15:42] test: add unit coverage for core handlers
 - [2025-02-15T22:52:42] chore: synchronize project dependencies
+- [2025-02-15T20:59:25] perf: improve memory allocation profile
