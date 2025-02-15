@@ -207,3 +207,4 @@
 - [2025-02-14T13:32:12] fix: handle boundary condition in buffer
 - [2025-02-15T12:40:00] chore: synchronize project dependencies
 - [2025-02-15T11:07:47] docs: clarify API specification
+- [2025-02-15T20:15:42] test: add unit coverage for core handlers
