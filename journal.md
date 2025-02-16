@@ -211,3 +211,4 @@
 - [2025-02-15T22:52:42] chore: synchronize project dependencies
 - [2025-02-15T20:59:25] perf: improve memory allocation profile
 - [2025-02-16T17:52:51] style: format code according to standards
+- [2025-02-16T22:15:51] docs: document system architecture
