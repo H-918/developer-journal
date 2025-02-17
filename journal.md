@@ -214,3 +214,4 @@
 - [2025-02-16T22:15:51] docs: document system architecture
 - [2025-02-17T20:53:48] style: format code according to standards
 - [2025-02-17T21:02:18] docs: clarify API specification
+- [2025-02-17T10:40:14] fix: handle boundary condition in buffer
