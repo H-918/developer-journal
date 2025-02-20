@@ -221,3 +221,4 @@
 - [2025-02-19T13:10:58] feat: add data structure implementation
 - [2025-02-19T13:07:57] docs: document system architecture
 - [2025-02-20T20:17:33] chore: synchronize project dependencies
+- [2025-02-20T19:12:16] docs: clarify API specification
