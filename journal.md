@@ -223,3 +223,4 @@
 - [2025-02-20T20:17:33] chore: synchronize project dependencies
 - [2025-02-20T19:12:16] docs: clarify API specification
 - [2025-02-20T19:12:28] perf: improve memory allocation profile
+- [2025-02-20T12:58:44] fix: handle boundary condition in buffer
