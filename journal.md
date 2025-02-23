@@ -226,3 +226,4 @@
 - [2025-02-20T12:58:44] fix: handle boundary condition in buffer
 - [2025-02-21T10:40:08] refactor: optimize parsing routines
 - [2025-02-21T22:48:20] perf: improve memory allocation profile
+- [2025-02-23T16:23:06] docs: clarify API specification
