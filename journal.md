@@ -231,3 +231,4 @@
 - [2025-02-27T15:51:59] docs: clarify API specification
 - [2025-02-27T19:47:58] perf: improve memory allocation profile
 - [2025-02-28T14:51:21] perf: improve memory allocation profile
+- [2025-02-28T13:01:54] style: format code according to standards
