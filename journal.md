@@ -234,3 +234,4 @@
 - [2025-02-28T13:01:54] style: format code according to standards
 - [2025-03-01T14:45:54] perf: improve memory allocation profile
 - [2025-03-01T21:00:20] refactor: optimize parsing routines
+- [2025-03-04T12:22:24] test: add unit coverage for core handlers
