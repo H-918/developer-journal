@@ -237,3 +237,4 @@
 - [2025-03-04T12:22:24] test: add unit coverage for core handlers
 - [2025-03-04T13:07:16] chore: synchronize project dependencies
 - [2025-03-05T15:26:48] refactor: optimize parsing routines
+- [2025-03-05T16:00:43] test: add unit coverage for core handlers
