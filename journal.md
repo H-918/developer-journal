@@ -246,3 +246,4 @@
 - [2025-03-13T11:55:27] docs: clarify API specification
 - [2025-03-14T17:30:47] chore: update configuration parameters
 - [2025-03-14T20:04:40] test: add unit coverage for core handlers
+- [2025-03-14T22:39:12] fix: handle boundary condition in buffer
