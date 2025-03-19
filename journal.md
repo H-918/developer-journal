@@ -253,3 +253,4 @@
 - [2025-03-18T15:29:04] feat: add data structure implementation
 - [2025-03-18T09:08:31] refactor: optimize parsing routines
 - [2025-03-19T10:22:23] refactor: optimize parsing routines
+- [2025-03-19T11:50:37] fix: handle boundary condition in buffer
