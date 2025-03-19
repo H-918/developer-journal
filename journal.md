@@ -254,3 +254,4 @@
 - [2025-03-18T09:08:31] refactor: optimize parsing routines
 - [2025-03-19T10:22:23] refactor: optimize parsing routines
 - [2025-03-19T11:50:37] fix: handle boundary condition in buffer
+- [2025-03-19T15:02:19] test: add unit coverage for core handlers
