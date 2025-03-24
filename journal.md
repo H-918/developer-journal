@@ -260,3 +260,4 @@
 - [2025-03-22T10:53:34] refactor: optimize parsing routines
 - [2025-03-22T21:41:25] perf: improve memory allocation profile
 - [2025-03-24T11:33:08] fix: handle boundary condition in buffer
+- [2025-03-24T17:59:27] fix: handle boundary condition in buffer
