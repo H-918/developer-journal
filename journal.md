@@ -259,3 +259,4 @@
 - [2025-03-21T22:37:11] chore: update configuration parameters
 - [2025-03-22T10:53:34] refactor: optimize parsing routines
 - [2025-03-22T21:41:25] perf: improve memory allocation profile
+- [2025-03-24T11:33:08] fix: handle boundary condition in buffer
