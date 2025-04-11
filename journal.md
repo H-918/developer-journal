@@ -282,3 +282,4 @@
 - [2025-04-10T22:09:03] docs: clarify API specification
 - [2025-04-10T17:27:13] refactor: optimize parsing routines
 - [2025-04-11T21:03:16] docs: clarify API specification
+- [2025-04-11T17:17:54] fix: handle boundary condition in buffer
