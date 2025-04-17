@@ -292,3 +292,4 @@
 - [2025-04-16T11:02:17] feat: add data structure implementation
 - [2025-04-16T13:11:02] fix: handle boundary condition in buffer
 - [2025-04-17T19:51:50] docs: document system architecture
+- [2025-04-17T16:17:08] style: format code according to standards
