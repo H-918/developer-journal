@@ -294,3 +294,4 @@
 - [2025-04-17T19:51:50] docs: document system architecture
 - [2025-04-17T16:17:08] style: format code according to standards
 - [2025-04-18T17:18:45] feat: add data structure implementation
+- [2025-04-18T11:11:21] perf: improve memory allocation profile
