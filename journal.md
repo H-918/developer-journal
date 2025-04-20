@@ -296,3 +296,4 @@
 - [2025-04-18T17:18:45] feat: add data structure implementation
 - [2025-04-18T11:11:21] perf: improve memory allocation profile
 - [2025-04-20T14:43:41] perf: improve memory allocation profile
+- [2025-04-20T11:19:55] refactor: optimize parsing routines
