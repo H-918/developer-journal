@@ -298,3 +298,4 @@
 - [2025-04-20T14:43:41] perf: improve memory allocation profile
 - [2025-04-20T11:19:55] refactor: optimize parsing routines
 - [2025-04-20T15:35:52] chore: synchronize project dependencies
+- [2025-04-21T13:59:37] fix: handle boundary condition in buffer
