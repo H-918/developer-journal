@@ -300,3 +300,4 @@
 - [2025-04-20T15:35:52] chore: synchronize project dependencies
 - [2025-04-21T13:59:37] fix: handle boundary condition in buffer
 - [2025-04-21T18:37:32] chore: update configuration parameters
+- [2025-04-23T09:36:54] style: format code according to standards
