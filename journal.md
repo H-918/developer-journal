@@ -304,3 +304,4 @@
 - [2025-04-24T12:34:38] refactor: optimize parsing routines
 - [2025-04-24T09:13:05] perf: improve memory allocation profile
 - [2025-04-25T22:38:53] chore: synchronize project dependencies
+- [2025-04-25T10:17:03] docs: clarify API specification
