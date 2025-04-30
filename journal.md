@@ -308,3 +308,4 @@
 - [2025-04-29T15:39:05] fix: handle boundary condition in buffer
 - [2025-04-29T12:01:52] chore: synchronize project dependencies
 - [2025-04-30T12:00:08] chore: synchronize project dependencies
+- [2025-04-30T10:53:53] refactor: optimize parsing routines
