@@ -317,3 +317,4 @@
 - [2025-05-05T11:03:09] style: format code according to standards
 - [2025-05-06T21:05:21] refactor: optimize parsing routines
 - [2025-05-07T21:59:48] fix: handle boundary condition in buffer
+- [2025-05-08T14:12:06] chore: synchronize project dependencies
