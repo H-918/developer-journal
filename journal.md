@@ -319,3 +319,4 @@
 - [2025-05-07T21:59:48] fix: handle boundary condition in buffer
 - [2025-05-08T14:12:06] chore: synchronize project dependencies
 - [2025-05-08T13:20:54] refactor: optimize parsing routines
+- [2025-05-10T13:47:39] docs: clarify API specification
