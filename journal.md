@@ -324,3 +324,4 @@
 - [2025-05-11T13:48:16] chore: update configuration parameters
 - [2025-05-11T19:52:13] style: format code according to standards
 - [2025-05-13T14:31:16] style: format code according to standards
+- [2025-05-13T09:59:34] test: add unit coverage for core handlers
