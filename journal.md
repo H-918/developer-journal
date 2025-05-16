@@ -329,3 +329,4 @@
 - [2025-05-15T16:00:27] chore: update configuration parameters
 - [2025-05-15T15:47:08] docs: clarify API specification
 - [2025-05-16T16:18:57] chore: synchronize project dependencies
+- [2025-05-16T21:25:55] style: format code according to standards
