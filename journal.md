@@ -334,3 +334,4 @@
 - [2025-05-16T17:01:35] fix: handle boundary condition in buffer
 - [2025-05-17T10:32:47] feat: add data structure implementation
 - [2025-05-17T17:28:37] perf: improve memory allocation profile
+- [2025-05-17T22:10:15] style: format code according to standards
