@@ -332,3 +332,4 @@
 - [2025-05-16T21:25:55] style: format code according to standards
 - [2025-05-16T21:13:30] perf: improve memory allocation profile
 - [2025-05-16T17:01:35] fix: handle boundary condition in buffer
+- [2025-05-17T10:32:47] feat: add data structure implementation
