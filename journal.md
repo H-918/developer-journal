@@ -335,3 +335,4 @@
 - [2025-05-17T10:32:47] feat: add data structure implementation
 - [2025-05-17T17:28:37] perf: improve memory allocation profile
 - [2025-05-17T22:10:15] style: format code according to standards
+- [2025-05-20T12:56:29] test: add unit coverage for core handlers
