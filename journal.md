@@ -338,3 +338,4 @@
 - [2025-05-20T12:56:29] test: add unit coverage for core handlers
 - [2025-05-20T14:09:33] refactor: optimize parsing routines
 - [2025-05-21T16:20:54] chore: update configuration parameters
+- [2025-05-21T13:39:33] fix: handle boundary condition in buffer
