@@ -350,3 +350,4 @@
 - [2025-05-27T22:55:47] feat: add data structure implementation
 - [2025-05-28T22:31:03] style: format code according to standards
 - [2025-05-28T22:46:33] docs: clarify API specification
+- [2025-05-29T11:21:56] perf: improve memory allocation profile
