@@ -352,3 +352,4 @@
 - [2025-05-28T22:46:33] docs: clarify API specification
 - [2025-05-29T11:21:56] perf: improve memory allocation profile
 - [2025-05-29T13:15:44] chore: update configuration parameters
+- [2025-05-30T18:22:43] docs: clarify API specification
