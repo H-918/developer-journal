@@ -356,3 +356,4 @@
 - [2025-05-31T14:38:05] test: add unit coverage for core handlers
 - [2025-06-02T18:27:20] chore: update configuration parameters
 - [2025-06-03T19:31:19] docs: document system architecture
+- [2025-06-03T12:53:51] chore: synchronize project dependencies
