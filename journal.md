@@ -362,3 +362,4 @@
 - [2025-06-04T09:44:48] test: add unit coverage for core handlers
 - [2025-06-04T20:45:49] fix: handle boundary condition in buffer
 - [2025-06-05T15:36:52] test: add unit coverage for core handlers
+- [2025-06-05T10:11:24] perf: improve memory allocation profile
