@@ -367,3 +367,4 @@
 - [2025-06-06T13:06:38] refactor: optimize parsing routines
 - [2025-06-06T12:01:35] chore: synchronize project dependencies
 - [2025-06-06T21:42:20] docs: document system architecture
+- [2025-06-11T16:37:31] perf: improve memory allocation profile
