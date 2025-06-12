@@ -371,3 +371,4 @@
 - [2025-06-11T16:15:49] docs: clarify API specification
 - [2025-06-12T18:55:20] refactor: optimize parsing routines
 - [2025-06-12T22:19:54] feat: add data structure implementation
+- [2025-06-12T12:15:24] test: add unit coverage for core handlers
