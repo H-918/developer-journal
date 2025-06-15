@@ -374,3 +374,4 @@
 - [2025-06-12T12:15:24] test: add unit coverage for core handlers
 - [2025-06-12T11:18:23] docs: document system architecture
 - [2025-06-13T17:58:52] fix: handle boundary condition in buffer
+- [2025-06-15T15:53:00] chore: update configuration parameters
