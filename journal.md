@@ -376,3 +376,4 @@
 - [2025-06-13T17:58:52] fix: handle boundary condition in buffer
 - [2025-06-15T15:53:00] chore: update configuration parameters
 - [2025-06-16T10:35:35] docs: document system architecture
+- [2025-06-16T21:08:00] docs: document system architecture
