@@ -382,3 +382,4 @@
 - [2025-06-16T18:00:02] docs: document system architecture
 - [2025-06-17T12:25:23] test: add unit coverage for core handlers
 - [2025-06-18T17:26:19] test: add unit coverage for core handlers
+- [2025-06-26T13:04:41] refactor: optimize parsing routines
