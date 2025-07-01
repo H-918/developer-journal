@@ -386,3 +386,4 @@
 - [2025-06-26T19:14:07] docs: clarify API specification
 - [2025-06-26T20:22:52] docs: document system architecture
 - [2025-07-01T11:54:22] refactor: optimize parsing routines
+- [2025-07-01T11:11:42] perf: improve memory allocation profile
