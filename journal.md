@@ -389,3 +389,4 @@
 - [2025-07-01T11:11:42] perf: improve memory allocation profile
 - [2025-07-02T17:36:34] docs: document system architecture
 - [2025-07-02T22:39:20] test: add unit coverage for core handlers
+- [2025-07-03T22:17:01] docs: clarify API specification
