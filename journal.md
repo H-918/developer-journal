@@ -401,3 +401,4 @@
 - [2025-07-10T22:52:08] test: add unit coverage for core handlers
 - [2025-07-10T19:22:23] feat: add data structure implementation
 - [2025-07-10T10:03:58] feat: add data structure implementation
+- [2025-07-17T14:53:22] perf: improve memory allocation profile
