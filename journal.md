@@ -404,3 +404,4 @@
 - [2025-07-17T14:53:22] perf: improve memory allocation profile
 - [2025-07-17T09:22:42] test: add unit coverage for core handlers
 - [2025-07-23T11:02:33] docs: clarify API specification
+- [2025-07-23T21:34:23] fix: handle boundary condition in buffer
