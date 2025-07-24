@@ -406,3 +406,4 @@
 - [2025-07-23T11:02:33] docs: clarify API specification
 - [2025-07-23T21:34:23] fix: handle boundary condition in buffer
 - [2025-07-23T15:03:39] style: format code according to standards
+- [2025-07-24T16:56:29] perf: improve memory allocation profile
