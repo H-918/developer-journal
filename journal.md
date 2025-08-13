@@ -424,3 +424,4 @@
 - [2025-08-11T11:01:55] refactor: optimize parsing routines
 - [2025-08-11T22:42:14] refactor: optimize parsing routines
 - [2025-08-12T18:47:48] docs: clarify API specification
+- [2025-08-13T11:42:06] test: add unit coverage for core handlers
