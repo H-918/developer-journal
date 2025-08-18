@@ -430,3 +430,4 @@
 - [2025-08-14T12:22:53] docs: document system architecture
 - [2025-08-14T16:18:18] chore: synchronize project dependencies
 - [2025-08-16T13:29:55] docs: clarify API specification
+- [2025-08-18T14:58:31] chore: update configuration parameters
