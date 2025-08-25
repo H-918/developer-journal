@@ -437,3 +437,4 @@
 - [2025-08-20T18:58:21] style: format code according to standards
 - [2025-08-22T13:39:44] test: add unit coverage for core handlers
 - [2025-08-22T11:09:55] style: format code according to standards
+- [2025-08-25T17:14:38] perf: improve memory allocation profile
