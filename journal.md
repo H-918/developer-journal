@@ -448,3 +448,4 @@
 - [2025-09-01T13:30:08] chore: update configuration parameters
 - [2025-09-02T15:51:00] docs: clarify API specification
 - [2025-09-03T14:20:44] refactor: optimize parsing routines
+- [2025-09-04T21:45:02] test: add unit coverage for core handlers
