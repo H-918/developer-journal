@@ -471,3 +471,4 @@
 - [2025-09-18T14:03:19] style: format code according to standards
 - [2025-09-18T21:14:48] refactor: optimize parsing routines
 - [2025-09-19T17:43:29] perf: improve memory allocation profile
+- [2025-09-19T19:59:33] docs: clarify API specification
