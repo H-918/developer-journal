@@ -476,3 +476,4 @@
 - [2025-09-20T10:41:47] chore: update configuration parameters
 - [2025-09-20T18:34:22] docs: clarify API specification
 - [2025-09-20T19:02:20] style: format code according to standards
+- [2025-09-20T17:52:49] docs: clarify API specification
