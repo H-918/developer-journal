@@ -478,3 +478,4 @@
 - [2025-09-20T19:02:20] style: format code according to standards
 - [2025-09-20T17:52:49] docs: clarify API specification
 - [2025-09-22T20:48:15] perf: improve memory allocation profile
+- [2025-09-23T09:35:24] test: add unit coverage for core handlers
