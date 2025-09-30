@@ -489,3 +489,4 @@
 - [2025-09-29T14:47:32] style: format code according to standards
 - [2025-09-29T10:45:01] test: add unit coverage for core handlers
 - [2025-09-29T12:26:31] chore: synchronize project dependencies
+- [2025-09-30T17:54:40] chore: update configuration parameters
