@@ -492,3 +492,4 @@
 - [2025-09-30T17:54:40] chore: update configuration parameters
 - [2025-09-30T20:29:23] docs: document system architecture
 - [2025-10-02T20:44:06] docs: document system architecture
+- [2025-10-04T16:36:35] test: add unit coverage for core handlers
