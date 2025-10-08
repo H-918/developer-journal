@@ -500,3 +500,4 @@
 - [2025-10-07T21:30:30] chore: update configuration parameters
 - [2025-10-07T15:19:33] chore: update configuration parameters
 - [2025-10-08T09:52:37] chore: synchronize project dependencies
+- [2025-10-08T15:59:46] docs: clarify API specification
