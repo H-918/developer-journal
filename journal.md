@@ -502,3 +502,4 @@
 - [2025-10-08T09:52:37] chore: synchronize project dependencies
 - [2025-10-08T15:59:46] docs: clarify API specification
 - [2025-10-08T09:08:10] fix: handle boundary condition in buffer
+- [2025-10-09T13:20:40] fix: handle boundary condition in buffer
