@@ -505,3 +505,4 @@
 - [2025-10-09T13:20:40] fix: handle boundary condition in buffer
 - [2025-10-09T22:31:23] fix: handle boundary condition in buffer
 - [2025-10-10T13:28:11] perf: improve memory allocation profile
+- [2025-10-10T16:44:34] style: format code according to standards
