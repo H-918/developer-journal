@@ -512,3 +512,4 @@
 - [2025-10-13T20:26:29] feat: add data structure implementation
 - [2025-10-15T18:03:55] docs: document system architecture
 - [2025-10-15T19:24:08] chore: synchronize project dependencies
+- [2025-10-15T13:40:00] test: add unit coverage for core handlers
