@@ -515,3 +515,4 @@
 - [2025-10-15T13:40:00] test: add unit coverage for core handlers
 - [2025-10-16T09:53:31] style: format code according to standards
 - [2025-10-20T10:58:35] chore: update configuration parameters
+- [2025-10-21T14:47:20] docs: clarify API specification
