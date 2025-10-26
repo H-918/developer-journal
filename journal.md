@@ -525,3 +525,4 @@
 - [2025-10-26T19:46:31] chore: synchronize project dependencies
 - [2025-10-26T13:27:31] chore: synchronize project dependencies
 - [2025-10-26T17:17:06] test: add unit coverage for core handlers
+- [2025-10-26T17:10:18] test: add unit coverage for core handlers
