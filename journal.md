@@ -528,3 +528,4 @@
 - [2025-10-26T17:10:18] test: add unit coverage for core handlers
 - [2025-10-27T14:34:47] chore: update configuration parameters
 - [2025-10-27T16:44:26] docs: clarify API specification
+- [2025-10-31T14:22:24] perf: improve memory allocation profile
