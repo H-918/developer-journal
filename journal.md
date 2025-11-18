@@ -547,3 +547,4 @@
 - [2025-11-15T17:33:37] refactor: optimize parsing routines
 - [2025-11-17T10:14:06] fix: handle boundary condition in buffer
 - [2025-11-17T17:32:56] refactor: optimize parsing routines
+- [2025-11-18T11:19:27] style: format code according to standards
