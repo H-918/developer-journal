@@ -551,3 +551,4 @@
 - [2025-11-18T19:39:59] feat: add data structure implementation
 - [2025-11-19T12:01:23] chore: update configuration parameters
 - [2025-11-19T20:26:11] chore: update configuration parameters
+- [2025-11-20T12:22:58] fix: handle boundary condition in buffer
