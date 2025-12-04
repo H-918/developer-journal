@@ -561,3 +561,4 @@
 - [2025-11-26T13:10:24] test: add unit coverage for core handlers
 - [2025-11-27T19:30:47] perf: improve memory allocation profile
 - [2025-12-02T15:11:08] test: add unit coverage for core handlers
+- [2025-12-04T13:41:58] chore: synchronize project dependencies
