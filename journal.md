@@ -563,3 +563,4 @@
 - [2025-12-02T15:11:08] test: add unit coverage for core handlers
 - [2025-12-04T13:41:58] chore: synchronize project dependencies
 - [2025-12-04T10:19:33] chore: synchronize project dependencies
+- [2025-12-08T15:25:05] docs: clarify API specification
