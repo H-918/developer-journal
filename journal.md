@@ -569,3 +569,4 @@
 - [2025-12-11T17:57:43] docs: document system architecture
 - [2025-12-12T09:27:02] fix: handle boundary condition in buffer
 - [2025-12-12T10:08:56] perf: improve memory allocation profile
+- [2025-12-15T09:00:43] chore: update configuration parameters
