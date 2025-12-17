@@ -573,3 +573,4 @@
 - [2025-12-15T16:51:48] refactor: optimize parsing routines
 - [2025-12-16T21:13:13] docs: clarify API specification
 - [2025-12-16T17:14:31] docs: document system architecture
+- [2025-12-17T09:41:42] docs: clarify API specification
