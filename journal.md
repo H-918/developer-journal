@@ -576,3 +576,4 @@
 - [2025-12-17T09:41:42] docs: clarify API specification
 - [2025-12-17T17:57:30] fix: handle boundary condition in buffer
 - [2025-12-18T18:24:14] chore: update configuration parameters
+- [2025-12-18T10:32:08] refactor: optimize parsing routines
