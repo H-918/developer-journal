@@ -577,3 +577,4 @@
 - [2025-12-17T17:57:30] fix: handle boundary condition in buffer
 - [2025-12-18T18:24:14] chore: update configuration parameters
 - [2025-12-18T10:32:08] refactor: optimize parsing routines
+- [2025-12-18T19:46:38] test: add unit coverage for core handlers
