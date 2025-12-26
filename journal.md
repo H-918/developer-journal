@@ -582,3 +582,4 @@
 - [2025-12-23T21:33:13] test: add unit coverage for core handlers
 - [2025-12-24T19:09:47] fix: handle boundary condition in buffer
 - [2025-12-26T14:32:24] chore: synchronize project dependencies
+- [2025-12-26T18:04:53] refactor: optimize parsing routines
