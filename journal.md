@@ -584,3 +584,4 @@
 - [2025-12-26T14:32:24] chore: synchronize project dependencies
 - [2025-12-26T18:04:53] refactor: optimize parsing routines
 - [2025-12-29T18:36:32] perf: improve memory allocation profile
+- [2025-12-29T11:38:13] style: format code according to standards
