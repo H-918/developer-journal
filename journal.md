@@ -587,3 +587,4 @@
 - [2025-12-29T11:38:13] style: format code according to standards
 - [2025-12-30T22:28:59] refactor: optimize parsing routines
 - [2025-12-30T13:12:23] docs: document system architecture
+- [2025-12-31T21:50:26] fix: handle boundary condition in buffer
