@@ -591,3 +591,4 @@
 - [2025-12-31T20:02:14] perf: improve memory allocation profile
 - [2026-01-01T12:27:28] docs: clarify API specification
 - [2026-01-02T21:48:03] fix: handle boundary condition in buffer
+- [2026-01-02T22:51:48] docs: document system architecture
