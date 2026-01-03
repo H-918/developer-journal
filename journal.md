@@ -592,3 +592,4 @@
 - [2026-01-01T12:27:28] docs: clarify API specification
 - [2026-01-02T21:48:03] fix: handle boundary condition in buffer
 - [2026-01-02T22:51:48] docs: document system architecture
+- [2026-01-03T13:42:36] docs: document system architecture
