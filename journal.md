@@ -593,3 +593,4 @@
 - [2026-01-02T21:48:03] fix: handle boundary condition in buffer
 - [2026-01-02T22:51:48] docs: document system architecture
 - [2026-01-03T13:42:36] docs: document system architecture
+- [2026-01-03T14:56:13] test: add unit coverage for core handlers
