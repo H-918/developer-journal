@@ -594,3 +594,4 @@
 - [2026-01-02T22:51:48] docs: document system architecture
 - [2026-01-03T13:42:36] docs: document system architecture
 - [2026-01-03T14:56:13] test: add unit coverage for core handlers
+- [2026-01-05T14:29:49] test: add unit coverage for core handlers
