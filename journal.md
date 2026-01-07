@@ -599,3 +599,4 @@
 - [2026-01-05T11:11:59] chore: synchronize project dependencies
 - [2026-01-05T09:49:41] chore: update configuration parameters
 - [2026-01-06T19:10:29] chore: update configuration parameters
+- [2026-01-07T15:07:54] style: format code according to standards
