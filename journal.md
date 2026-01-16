@@ -606,3 +606,4 @@
 - [2026-01-10T10:15:20] feat: add data structure implementation
 - [2026-01-12T12:00:11] refactor: optimize parsing routines
 - [2026-01-13T09:14:54] docs: document system architecture
+- [2026-01-16T19:53:16] test: add unit coverage for core handlers
