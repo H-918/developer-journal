@@ -610,3 +610,4 @@
 - [2026-01-16T21:43:46] chore: synchronize project dependencies
 - [2026-01-20T12:39:55] feat: add data structure implementation
 - [2026-01-20T10:25:17] style: format code according to standards
+- [2026-01-21T10:37:45] docs: document system architecture
