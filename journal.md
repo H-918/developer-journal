@@ -624,3 +624,4 @@
 - [2026-01-28T17:21:24] docs: clarify API specification
 - [2026-01-28T09:35:19] docs: clarify API specification
 - [2026-01-28T16:29:15] refactor: optimize parsing routines
+- [2026-01-29T16:02:06] chore: synchronize project dependencies
