@@ -628,3 +628,4 @@
 - [2026-01-29T12:56:27] feat: add data structure implementation
 - [2026-01-29T21:06:16] feat: add data structure implementation
 - [2026-01-29T09:09:50] perf: improve memory allocation profile
+- [2026-01-30T16:05:43] fix: handle boundary condition in buffer
