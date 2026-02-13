@@ -646,3 +646,4 @@
 - [2026-02-12T10:04:24] chore: update configuration parameters
 - [2026-02-12T09:34:48] feat: add data structure implementation
 - [2026-02-13T14:33:49] style: format code according to standards
+- [2026-02-13T11:52:54] test: add unit coverage for core handlers
