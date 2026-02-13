@@ -649,3 +649,4 @@
 - [2026-02-13T11:52:54] test: add unit coverage for core handlers
 - [2026-02-13T19:41:05] chore: update configuration parameters
 - [2026-02-13T18:22:12] chore: synchronize project dependencies
+- [2026-02-13T14:38:16] perf: improve memory allocation profile
