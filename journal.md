@@ -667,3 +667,4 @@
 - [2026-02-27T10:13:52] chore: update configuration parameters
 - [2026-02-27T15:40:56] perf: improve memory allocation profile
 - [2026-02-27T13:17:43] feat: add data structure implementation
+- [2026-02-27T12:23:32] docs: clarify API specification
