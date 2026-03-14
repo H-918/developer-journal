@@ -671,3 +671,4 @@
 - [2026-03-02T15:18:45] chore: synchronize project dependencies
 - [2026-03-04T18:22:58] perf: improve memory allocation profile
 - [2026-03-05T20:11:29] docs: clarify API specification
+- [2026-03-14T22:09:00] docs: clarify API specification
