@@ -679,3 +679,4 @@
 - [2026-03-17T20:33:09] feat: add data structure implementation
 - [2026-03-17T13:29:47] fix: handle boundary condition in buffer
 - [2026-03-18T10:18:35] style: format code according to standards
+- [2026-03-19T17:01:06] docs: clarify API specification
