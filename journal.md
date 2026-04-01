@@ -691,3 +691,4 @@
 - [2026-03-27T20:55:07] chore: update configuration parameters
 - [2026-03-31T17:04:05] chore: synchronize project dependencies
 - [2026-04-01T20:01:03] chore: update configuration parameters
+- [2026-04-01T10:35:23] test: add unit coverage for core handlers
