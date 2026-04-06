@@ -694,3 +694,4 @@
 - [2026-04-01T10:35:23] test: add unit coverage for core handlers
 - [2026-04-03T21:44:43] docs: document system architecture
 - [2026-04-03T18:20:29] refactor: optimize parsing routines
+- [2026-04-06T14:29:59] chore: synchronize project dependencies
