@@ -699,3 +699,4 @@
 - [2026-04-08T10:41:53] chore: synchronize project dependencies
 - [2026-04-08T10:32:29] fix: handle boundary condition in buffer
 - [2026-04-14T09:48:27] refactor: optimize parsing routines
+- [2026-04-14T17:32:54] docs: clarify API specification
