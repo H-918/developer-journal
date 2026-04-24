@@ -710,3 +710,4 @@
 - [2026-04-22T17:43:10] docs: document system architecture
 - [2026-04-23T22:04:10] refactor: optimize parsing routines
 - [2026-04-23T10:00:06] refactor: optimize parsing routines
+- [2026-04-24T09:42:38] perf: improve memory allocation profile
