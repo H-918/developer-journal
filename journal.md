@@ -712,3 +712,4 @@
 - [2026-04-23T10:00:06] refactor: optimize parsing routines
 - [2026-04-24T09:42:38] perf: improve memory allocation profile
 - [2026-04-24T19:18:18] chore: update configuration parameters
+- [2026-04-24T14:04:33] docs: clarify API specification
