@@ -720,3 +720,4 @@
 - [2026-04-29T15:32:29] docs: clarify API specification
 - [2026-04-29T21:53:20] perf: improve memory allocation profile
 - [2026-04-30T18:45:22] test: add unit coverage for core handlers
+- [2026-04-30T22:32:46] perf: improve memory allocation profile
