@@ -723,3 +723,4 @@
 - [2026-04-30T22:32:46] perf: improve memory allocation profile
 - [2026-05-01T21:25:59] style: format code according to standards
 - [2026-05-05T09:47:45] fix: handle boundary condition in buffer
+- [2026-05-05T10:34:04] docs: clarify API specification
