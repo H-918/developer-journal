@@ -725,3 +725,4 @@
 - [2026-05-05T09:47:45] fix: handle boundary condition in buffer
 - [2026-05-05T10:34:04] docs: clarify API specification
 - [2026-05-06T10:14:16] style: format code according to standards
+- [2026-05-06T17:55:30] docs: clarify API specification
