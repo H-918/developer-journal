@@ -729,3 +729,4 @@
 - [2026-05-07T22:52:41] refactor: optimize parsing routines
 - [2026-05-07T18:23:42] perf: improve memory allocation profile
 - [2026-05-07T14:02:16] style: format code according to standards
+- [2026-05-07T10:46:17] fix: handle boundary condition in buffer
