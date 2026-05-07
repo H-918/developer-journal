@@ -727,3 +727,4 @@
 - [2026-05-06T10:14:16] style: format code according to standards
 - [2026-05-06T17:55:30] docs: clarify API specification
 - [2026-05-07T22:52:41] refactor: optimize parsing routines
+- [2026-05-07T18:23:42] perf: improve memory allocation profile
