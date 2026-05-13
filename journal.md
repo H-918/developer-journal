@@ -738,3 +738,4 @@
 - [2026-05-12T19:06:30] chore: synchronize project dependencies
 - [2026-05-12T18:25:10] refactor: optimize parsing routines
 - [2026-05-13T20:02:42] docs: clarify API specification
+- [2026-05-13T18:21:07] docs: document system architecture
