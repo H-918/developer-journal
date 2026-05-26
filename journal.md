@@ -744,3 +744,4 @@
 - [2026-05-19T19:40:05] test: add unit coverage for core handlers
 - [2026-05-20T18:48:32] feat: add data structure implementation
 - [2026-05-20T21:32:32] chore: update configuration parameters
+- [2026-05-26T20:21:52] docs: clarify API specification
