@@ -748,3 +748,4 @@
 - [2026-05-26T14:05:13] perf: improve memory allocation profile
 - [2026-05-26T19:23:23] fix: handle boundary condition in buffer
 - [2026-05-26T19:43:52] perf: improve memory allocation profile
+- [2026-05-26T16:41:55] style: format code according to standards
