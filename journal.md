@@ -758,3 +758,4 @@
 - [2026-05-29T10:35:13] docs: clarify API specification
 - [2026-05-29T13:27:18] fix: handle boundary condition in buffer
 - [2026-05-30T13:24:23] docs: clarify API specification
+- [2026-05-30T13:39:26] feat: add data structure implementation
