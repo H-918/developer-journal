@@ -760,3 +760,4 @@
 - [2026-05-30T13:24:23] docs: clarify API specification
 - [2026-05-30T13:39:26] feat: add data structure implementation
 - [2026-06-01T19:29:50] docs: clarify API specification
+- [2026-06-02T20:54:52] docs: document system architecture
