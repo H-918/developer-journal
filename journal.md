@@ -765,3 +765,4 @@
 - [2026-06-02T20:26:46] chore: synchronize project dependencies
 - [2026-06-02T13:07:34] test: add unit coverage for core handlers
 - [2026-06-02T14:33:58] refactor: optimize parsing routines
+- [2026-06-03T16:51:08] perf: improve memory allocation profile
