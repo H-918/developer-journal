@@ -767,3 +767,4 @@
 - [2026-06-02T14:33:58] refactor: optimize parsing routines
 - [2026-06-03T16:51:08] perf: improve memory allocation profile
 - [2026-06-03T15:24:25] perf: improve memory allocation profile
+- [2026-06-04T21:27:39] docs: clarify API specification
