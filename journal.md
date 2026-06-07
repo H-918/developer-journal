@@ -769,3 +769,4 @@
 - [2026-06-03T15:24:25] perf: improve memory allocation profile
 - [2026-06-04T21:27:39] docs: clarify API specification
 - [2026-06-07T16:23:24] perf: improve memory allocation profile
+- [2026-06-07T11:51:22] style: format code according to standards
