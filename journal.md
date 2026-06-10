@@ -771,3 +771,4 @@
 - [2026-06-07T16:23:24] perf: improve memory allocation profile
 - [2026-06-07T11:51:22] style: format code according to standards
 - [2026-06-08T14:14:40] refactor: optimize parsing routines
+- [2026-06-10T22:20:55] docs: document system architecture
