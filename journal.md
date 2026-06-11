@@ -773,3 +773,4 @@
 - [2026-06-08T14:14:40] refactor: optimize parsing routines
 - [2026-06-10T22:20:55] docs: document system architecture
 - [2026-06-10T17:21:33] docs: document system architecture
+- [2026-06-11T10:05:45] style: format code according to standards
