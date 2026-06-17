@@ -782,3 +782,4 @@
 - [2026-06-16T18:49:04] perf: improve memory allocation profile
 - [2026-06-16T19:06:16] docs: clarify API specification
 - [2026-06-16T09:20:58] fix: handle boundary condition in buffer
+- [2026-06-17T17:47:56] chore: synchronize project dependencies
