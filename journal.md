@@ -787,3 +787,4 @@
 - [2026-06-18T14:25:00] style: format code according to standards
 - [2026-06-20T13:01:54] fix: handle boundary condition in buffer
 - [2026-06-20T20:14:03] chore: synchronize project dependencies
+- [2026-06-20T12:08:46] test: add unit coverage for core handlers
