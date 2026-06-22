@@ -791,3 +791,4 @@
 - [2026-06-20T11:28:27] chore: synchronize project dependencies
 - [2026-06-22T20:50:44] perf: improve memory allocation profile
 - [2026-06-22T17:10:07] perf: improve memory allocation profile
+- [2026-06-22T13:49:45] style: format code according to standards
