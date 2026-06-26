@@ -795,3 +795,4 @@
 - [2026-06-22T12:20:40] fix: handle boundary condition in buffer
 - [2026-06-24T22:09:11] chore: update configuration parameters
 - [2026-06-24T09:18:21] test: add unit coverage for core handlers
+- [2026-06-26T14:12:47] fix: handle boundary condition in buffer
