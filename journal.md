@@ -802,3 +802,4 @@
 - [2026-07-01T10:44:08] perf: improve memory allocation profile
 - [2026-07-01T16:25:30] docs: clarify API specification
 - [2026-07-01T13:33:12] refactor: optimize parsing routines
+- [2026-07-01T09:50:44] test: add unit coverage for core handlers
