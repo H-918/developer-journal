@@ -800,3 +800,4 @@
 - [2026-06-29T11:27:03] feat: add data structure implementation
 - [2026-06-29T20:20:57] feat: add data structure implementation
 - [2026-07-01T10:44:08] perf: improve memory allocation profile
+- [2026-07-01T16:25:30] docs: clarify API specification
