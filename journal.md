@@ -813,3 +813,4 @@
 - [2026-07-06T13:42:29] chore: update configuration parameters
 - [2026-07-15T15:19:19] chore: synchronize project dependencies
 - [2026-07-20T11:44:04] test: add unit coverage for core handlers
+- [2026-07-20T20:12:31] docs: clarify API specification
