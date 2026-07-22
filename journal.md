@@ -815,3 +815,4 @@
 - [2026-07-20T11:44:04] test: add unit coverage for core handlers
 - [2026-07-20T20:12:31] docs: clarify API specification
 - [2026-07-21T13:24:48] chore: update configuration parameters
+- [2026-07-22T12:39:48] docs: clarify API specification
