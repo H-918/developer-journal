@@ -824,3 +824,4 @@
 - [2026-07-29T10:04:24] perf: improve memory allocation profile
 - [2026-07-29T21:43:11] chore: synchronize project dependencies
 - [2026-07-29T13:28:50] style: format code according to standards
+- [2026-07-29T17:24:38] docs: clarify API specification
