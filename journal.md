@@ -826,3 +826,4 @@
 - [2026-07-29T13:28:50] style: format code according to standards
 - [2026-07-29T17:24:38] docs: clarify API specification
 - [2026-07-30T10:41:59] docs: clarify API specification
+- [2026-07-31T10:02:24] docs: document system architecture
