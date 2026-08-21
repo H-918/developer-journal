@@ -847,3 +847,4 @@
 - [2026-08-20T12:48:40] docs: clarify API specification
 - [2026-08-20T19:16:30] docs: clarify API specification
 - [2026-08-21T15:24:13] test: add unit coverage for core handlers
+- [2026-08-21T22:48:15] test: add unit coverage for core handlers
