@@ -851,3 +851,4 @@
 - [2026-08-24T16:48:05] fix: handle boundary condition in buffer
 - [2026-08-24T12:32:09] chore: synchronize project dependencies
 - [2026-08-24T12:19:37] docs: document system architecture
+- [2026-08-24T21:42:13] style: format code according to standards
