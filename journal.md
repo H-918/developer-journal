@@ -855,3 +855,4 @@
 - [2026-08-25T12:39:46] style: format code according to standards
 - [2026-08-27T22:58:40] feat: add data structure implementation
 - [2026-08-27T19:46:08] test: add unit coverage for core handlers
+- [2026-08-27T10:17:12] fix: handle boundary condition in buffer
