@@ -859,3 +859,4 @@
 - [2026-08-27T10:39:42] test: add unit coverage for core handlers
 - [2026-08-27T22:29:43] feat: add data structure implementation
 - [2026-08-29T18:54:27] feat: add data structure implementation
+- [2026-09-01T09:47:49] docs: document system architecture
