@@ -869,3 +869,4 @@
 - [2026-09-08T17:59:53] chore: synchronize project dependencies
 - [2026-09-08T19:58:47] refactor: optimize parsing routines
 - [2026-09-08T19:59:17] style: format code according to standards
+- [2026-09-10T21:58:02] test: add unit coverage for core handlers
