@@ -882,3 +882,4 @@
 - [2026-09-16T12:53:48] perf: improve memory allocation profile
 - [2026-09-17T18:43:52] perf: improve memory allocation profile
 - [2026-09-17T16:59:51] fix: handle boundary condition in buffer
+- [2026-09-17T20:01:17] docs: document system architecture
