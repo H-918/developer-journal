@@ -895,3 +895,4 @@
 - [2026-09-22T16:29:33] chore: synchronize project dependencies
 - [2026-09-23T12:57:36] feat: add data structure implementation
 - [2026-09-23T22:41:53] refactor: optimize parsing routines
+- [2026-09-23T19:25:57] docs: clarify API specification
