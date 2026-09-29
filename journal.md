@@ -902,3 +902,4 @@
 - [2026-09-27T18:17:30] style: format code according to standards
 - [2026-09-28T11:09:30] refactor: optimize parsing routines
 - [2026-09-29T11:58:36] fix: handle boundary condition in buffer
+- [2026-09-29T22:52:42] docs: document system architecture
