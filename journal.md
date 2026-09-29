@@ -901,3 +901,4 @@
 - [2026-09-25T20:20:17] refactor: optimize parsing routines
 - [2026-09-27T18:17:30] style: format code according to standards
 - [2026-09-28T11:09:30] refactor: optimize parsing routines
+- [2026-09-29T11:58:36] fix: handle boundary condition in buffer
